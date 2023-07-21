@@ -97,7 +97,7 @@ colle_pedc.csv – outputs
 ```
 
 
-## In the pedigree is NOT considered valid and has serious errors it will give next file to continue cleaning:
+## If the pedigree is NOT considered valid and has serious errors it will give next file to continue cleaning:
 ```
 kosaraju_in.txt
 ```
